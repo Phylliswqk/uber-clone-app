@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "Would you like to pick up this passenger?"; ObjectID = "5KK-Ne-rKl"; */
+"5KK-Ne-rKl.text" = "Would you like to pick up this passenger?";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP / LOGIN"; ObjectID = "8JT-4s-wq4"; */
+"8JT-4s-wq4.normalTitle" = "SIGN UP / LOGIN";
+
+/* Class = "UILabel"; text = "HKR"; ObjectID = "Ax8-Se-eGV"; */
+"Ax8-Se-eGV.text" = "HKR";
+
+/* Class = "UILabel"; text = "HTCH"; ObjectID = "CVk-FR-3Xg"; */
+"CVk-FR-3Xg.text" = "HTCH";
+
+/* Class = "UIViewController"; title = "PickupVC"; ObjectID = "Dz5-fC-zhT"; */
+"Dz5-fC-zhT.title" = "PickupVC";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "G9r-ud-yKS"; */
+"G9r-ud-yKS.placeholder" = "Email";
+
+/* Class = "UISegmentedControl"; HDC-PE-ykr.segmentTitles[0] = "Passenger"; ObjectID = "HDC-PE-ykr"; */
+"HDC-PE-ykr.segmentTitles[0]" = "Passenger";
+
+/* Class = "UISegmentedControl"; HDC-PE-ykr.segmentTitles[1] = "Driver"; ObjectID = "HDC-PE-ykr"; */
+"HDC-PE-ykr.segmentTitles[1]" = "Driver";
+
+/* Class = "UILabel"; text = "HKR"; ObjectID = "HKA-KA-lRT"; */
+"HKA-KA-lRT.text" = "HKR";
+
+/* Class = "UIButton"; normalTitle = "Payment"; ObjectID = "NB2-J0-r5a"; */
+"NB2-J0-r5a.normalTitle" = "Payment";
+
+/* Class = "UILabel"; text = "Sign up or login to start requesting rides with HTCHHKR; the easiest way to get a lift anywhere!"; ObjectID = "OW7-ll-gkQ"; */
+"OW7-ll-gkQ.text" = "Sign up or login to start requesting rides with HTCHHKR; the easiest way to get a lift anywhere!";
+
+/* Class = "UIButton"; normalTitle = "REQUEST RIDE"; ObjectID = "QKh-VL-RJ3"; */
+"QKh-VL-RJ3.normalTitle" = "REQUEST RIDE";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "Xfx-7P-WYX"; */
+"Xfx-7P-WYX.text" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "aWk-Rh-QEk"; */
+"aWk-Rh-QEk.normalTitle" = "Help";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "bNz-7j-6pF"; */
+"bNz-7j-6pF.normalTitle" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Your Trips"; ObjectID = "brC-Od-4Jm"; */
+"brC-Od-4Jm.normalTitle" = "Your Trips";
+
+/* Class = "UIButton"; normalTitle = "ACCEPT TRIP"; ObjectID = "dGH-uL-e0u"; */
+"dGH-uL-e0u.normalTitle" = "ACCEPT TRIP";
+
+/* Class = "UIButton"; normalTitle = "Sign Up / Login"; ObjectID = "fjG-dS-vk8"; */
+"fjG-dS-vk8.normalTitle" = "Sign Up / Login";
+
+/* Class = "UILabel"; text = "HTCH"; ObjectID = "m5b-7R-hKH"; */
+"m5b-7R-hKH.text" = "HTCH";
+
+/* Class = "UITextField"; text = "My Location"; ObjectID = "nyd-eo-ESu"; */
+"nyd-eo-ESu.text" = "My Location";
+
+/* Class = "UIButton"; normalTitle = "CANCEL TRIP"; ObjectID = "o6V-XL-5aa"; */
+"o6V-XL-5aa.normalTitle" = "CANCEL TRIP";
+
+/* Class = "UILabel"; text = "HKR"; ObjectID = "sqm-ez-4xR"; */
+"sqm-ez-4xR.text" = "HKR";
+
+/* Class = "UILabel"; text = "poland.tyler@gmail.com"; ObjectID = "tLu-Zw-cqI"; */
+"tLu-Zw-cqI.text" = "poland.tyler@gmail.com";
+
+/* Class = "UITextField"; placeholder = "Where are you going?"; ObjectID = "tqg-b3-9mK"; */
+"tqg-b3-9mK.placeholder" = "Where are you going?";
+
+/* Class = "UILabel"; text = "HTCH"; ObjectID = "twg-Zj-TJB"; */
+"twg-Zj-TJB.text" = "HTCH";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "w7P-dG-6C9"; */
+"w7P-dG-6C9.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "PICKUP MODE DISABLED"; ObjectID = "wXd-1N-6Ua"; */
+"wXd-1N-6Ua.text" = "PICKUP MODE DISABLED";
